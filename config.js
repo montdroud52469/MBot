@@ -63,10 +63,10 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'VillaBot'
-global.author = '★ Montdroud52468★'
+global.author = '★    VillaBot    ★'
 
-global.wm = '★ Montdroud52468★'
-global.igfg = '★ Montdroud52468★'
+global.wm = '★    VillaBot    ★'
+global.igfg = '★    VillaBot    ★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
