@@ -21,7 +21,7 @@ let info = `
 ╠═〘 𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 〙 ═
 ╠
 ╠➥ [🤴🏻] 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *Jhus*
-╠➥ [#️⃣] 𝙽𝙾° 𝙳𝙴𝙻 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *+502 5768-1618*
+╠➥ [#️⃣] 𝙽𝙾° 𝙳𝙴𝙻 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *+525565233381*
 ╠➥ [🎳] 𝙿𝚁𝙴𝙵𝙸𝙹𝙾: *${usedPrefix}*
 ╠➥ [🔐] 𝙲𝙷𝙰𝚃𝚂 𝙿𝚁𝙸𝚅𝙰𝙳𝙾𝚂: *${chats.length - groups.length}*
 ╠➥ [🦜] 𝙲𝙷𝙰𝚃𝚂 𝙳𝙴 𝙶𝚁𝚄𝙿𝙾𝚂: *${groups.length}* 
@@ -39,9 +39,9 @@ let info = `
 conn.reply(m.chat, info, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝙸𝙽𝙵𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃',
-body: '𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ',         
+body: 'Montdroud52468  ᷦ',         
 previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
-sourceUrl: `https://github.com/IdkJhus`}}})
+sourceUrl: `https://github.com/montdroud52468`}}})
 }
 handler.help = ['infobot', 'speed']
 handler.tags = ['info', 'tools']
