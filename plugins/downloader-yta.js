@@ -7,9 +7,9 @@ if (!args || !args[0]) throw `*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝚂𝙴𝚁𝚃
 conn.reply(m.chat, `*_⏳Sᴇ ᴇsᴛᴀ ᴘʀᴏᴄᴇsᴀɴᴅᴏ Sᴜ ᴀᴜᴅɪᴏ...⏳_*\n\n*◉ Sɪ Sᴜ ᴀᴜᴅɪᴏ ɴᴏ ᴇs ᴇɴᴠɪᴀᴅᴏ, ᴘʀᴜᴇʙᴇ ᴄᴏɴ ᴇʟ ᴄᴏᴍᴀɴᴅᴏ #playdoc ᴏ #play.1 ᴏ #ytmp3doc ◉*`, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝚁𝙴𝙿𝚁𝙾𝙳𝚄𝙲𝚃𝙾𝚁 𝙳𝙴 𝙰𝚄𝙳𝙸𝙾',
-body: 'ʙʏ 𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ',         
+body: 'Montdroud52468  ᷦ',         
 previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
-sourceUrl: `https://github.com/IdkJhus`}}})
+sourceUrl: `https://github.com/montdroud52468`}}})
 let chat = global.db.data.chats[m.chat]
 const isY = /y(es)/gi.test(args[1])
 const { thumbnail, audio: _audio, title } = await youtubedl(args[0]).catch(async _ => await youtubedlv2(args[0])).catch(async _ => await youtubedlv3(args[0]))

@@ -4,9 +4,9 @@ let group = m.chat
 conn.reply(m.chat, 'https://chat.whatsapp.com/' + await conn.groupInviteCode(group), m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝙻𝙸𝙽𝙺 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾',
-body: '𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ',         
+body: 'Montdroud52468  ᷦ',         
 previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
-sourceUrl: `https://github.com/IdkJhus`}}})   
+sourceUrl: `https://github.com/montdroud52468`}}})   
 }
 handler.help = ['linkgroup']
 handler.tags = ['group']

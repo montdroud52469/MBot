@@ -20,8 +20,8 @@ let speed = neww - old
 let info = `
 ╠═〘 𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 〙 ═
 ╠
-╠➥ [🤴🏻] 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *Jhus*
-╠➥ [#️⃣] 𝙽𝙾° 𝙳𝙴𝙻 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *+525565233381*
+╠➥ [🤴🏻] 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *Montdroud52468*
+╠➥ [#️⃣] 𝙽𝙾° 𝙳𝙴𝙻 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *+5215565233381*
 ╠➥ [🎳] 𝙿𝚁𝙴𝙵𝙸𝙹𝙾: *${usedPrefix}*
 ╠➥ [🔐] 𝙲𝙷𝙰𝚃𝚂 𝙿𝚁𝙸𝚅𝙰𝙳𝙾𝚂: *${chats.length - groups.length}*
 ╠➥ [🦜] 𝙲𝙷𝙰𝚃𝚂 𝙳𝙴 𝙶𝚁𝚄𝙿𝙾𝚂: *${groups.length}* 
@@ -34,14 +34,14 @@ let info = `
 ╠➥ [☑️] 𝙰𝚄𝚃𝙾𝚁𝙴𝙰𝙳: ${autoread ? '*𝚊𝚌𝚝𝚒𝚟𝚊𝚍𝚘*' : '*𝚍𝚎𝚜𝚊𝚌𝚝𝚒𝚟𝚊𝚍𝚘*'}
 ╠➥ [❗] 𝚁𝙴𝚂𝚃𝚁𝙸𝙲𝚃: ${restrict ? '*𝚊𝚌𝚝𝚒𝚟𝚊𝚍𝚘*' : '*𝚍𝚎𝚜𝚊𝚌𝚝𝚒𝚟𝚊𝚍𝚘*'} 
 ╠
-╠═〘 𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ 〙 ═
+╠═〘 VillaBot  ᷦ 〙 ═
 `.trim() 
 conn.reply(m.chat, info, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝙸𝙽𝙵𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃',
-body: 'Montdroud52468  ᷦ',         
+body: 'VillaBot  ᷦ',         
 previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
-sourceUrl: `https://github.com/montdroud52468`}}})
+sourceUrl: `https://github.com/montdroud52469`}}})
 }
 handler.help = ['infobot', 'speed']
 handler.tags = ['info', 'tools']
