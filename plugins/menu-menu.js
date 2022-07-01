@@ -407,6 +407,14 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👑 _${usedPrefix}delprem *<@tag>*_
 ° ඬ⃟👑 _${usedPrefix}listprem_
 `.trim()
+conn.sendHydrated2(m.chat, str, wm, pp, 'https://www.youtube.com/channel/UCVffcsDwUR2iVXeC-b4yprw', '𝚈𝙾𝚄𝚃𝚄𝙱𝙴', 'https://github.com/IdkJhus', '𝙶𝙸𝚃𝙷𝚄𝙱', [
+['💻 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 💻', '/donasi'],
+['🔖 𝙾𝚆𝙽𝙴𝚁 🔖', '/owner'],
+['🧧 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🧧', '/infobot']
+], m,)
+//await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, {
+//type: 'audioMessage', 
+//ptt: true})
 } catch (e) {
 conn.reply(m.chat, '*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 𝙼𝙴𝙽𝚄 𝚃𝙸𝙴𝙽𝙴 𝚄𝙽 𝙴𝚁𝚁𝙾𝚁 𝚈 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙴𝙽𝚅𝙸𝙰𝚁𝙻𝙾, 𝚁𝙴𝙿𝙾𝚁𝚃𝙴𝙻𝙾 𝙰𝙻 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾 𝙳𝙴 VILLA𝙱𝙾𝚃*', m)
 throw e
