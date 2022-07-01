@@ -1,7 +1,7 @@
 {
   "name": "NotJhuz-MD",
   "description": "Gracias por todo, los amo (≧▽≦)",
-  "repository": "https://github.com/IdkJhus",
+  "repository": "https://github.com/montdroud52469",
   "logo": "https://raw.githubusercontent.com/IdkJhus/NotJhuz-MD/master/Menu2.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
@@ -9,13 +9,7 @@
     "url": "heroku/nodejs"
   },
   {
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
-  },
-  {
-    "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
-  },
-  {
-    "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-  }    
+    "url": "https://montdroud52469.github.io/ricardodmj.github.io/"
+  }  
  ]
 }

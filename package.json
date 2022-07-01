@@ -1,7 +1,7 @@
 {
-    "name": "NotJhuz-MD",
+    "name": "Montdroud52468",
     "version": "1.0.0",
-    "description": "Regalame tu sub en YouTube uwu",
+    "description": "Bienvenido",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -12,18 +12,18 @@
     "scripts": {
         "start": "node index.js",
         "cli": "node . --optimize_for_size --max_old_space_size=460 index.js",
-        "db": "node . --autocleartmp --db 'mongodb+srv://BrunoSobrino:Akhmad6825@cluster0.mflne.mongodb.net/TheMystic-Bot-MD?retryWrites=true&w=majority'"
+        "db": ""
     },
-    "homepage": "https://github.com/IdkJhus",
+    "homepage": "https://github.com/montdroud52469",
     "author": {
         "name": "NotJhuz"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/IdkJhus/NotJhuz-MD.git"
+        "url": "git+https://github.com/montdroud52469/MBot.git"
     },
     "bugs": {
-        "url": "https://github.com/IdkJhus/NotJhuz-MD/issues"
+        "url": "https://github.com/montdroud52469/MBot/"
     },
     "license": "MIT",
     "dependencies": {

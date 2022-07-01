@@ -5,7 +5,7 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['525565233381', 'Montdroud52468', true],
+  ['+5215565233381', 'Montdroud52468  ᷦ×͜×', true]
 ] // Cambia los numeros que quieras
 global.mods = [] 
 global.prems = [] 
@@ -62,11 +62,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '𝐉𝐡𝐮𝐬𝐳ᙆ  ᷦ×͜×'
-global.author = '★ Montdroud52468 ★'
+global.packname = 'VillaBot  ᷦ×͜×'
+global.author = '★ Montdroud52468  ᷦ★'
 
-global.wm = '★ Montdroud52468 ★'
-global.igfg = '★ Montdroud52468 ★'
+global.wm = '★ Montdroud52468  ᷦ★'
+global.igfg = '★ Montdroud52468  ᷦ★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
