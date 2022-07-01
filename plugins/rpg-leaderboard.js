@@ -11,7 +11,7 @@ let handler = async (m, { conn, args, participants }) => {
   console.log(participants)
   let len = args[0] && args[0].length > 0 ? Math.min(100, Math.max(parseInt(args[0]), 5)) : Math.min(5, sortedExp.length)
   let text = `
-       ≡ *TABLA DE CLASIFICACION*
+       ≡ *TABLA DE CLASIFICACION VILLALAND*
     
 ▢ *TOP ${len} XP* •
 Tú : *${usersExp.indexOf(m.sender) + 1}* de *${usersExp.length}*
