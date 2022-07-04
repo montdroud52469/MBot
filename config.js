@@ -5,14 +5,13 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['+5215565233381', '👑💻 Montdroud52468 💻👑', true]
+  ['+5215565233381', '👑💻 Montdroud52468 💻👑', true],
+  ['+50671500396',   '👑🌎   Dvilla0506   🌎👑'],
+  ['+5218115281591', '👑💻   AngelSotoR   💻👑',
+  ['+59160365976',   '👑🗽    AnnyRosse    🗽👑'],
+  ['+50242949579',   '👑🗽    Sr.Alfred    🗽👑']
 ] // Cambia los numeros que quieras
-global.mods = [
-  ['+50671500396', '👑🌎 Dvilla0506 🌎👑', true],
-  ['+5218115281591', '👑💻 AngelSotoR 💻👑', true],
-  ['+59160365976', '👑🗽 AnnyRosse 🗽👑', true],
-  ['+50242949579', '👑🗽 Sr. Alfred 🗽👑', true]
-] 
+global.mods = [] 
 global.prems = [] 
 global.APIs = { // API Prefix
   // name: 'https://website'
