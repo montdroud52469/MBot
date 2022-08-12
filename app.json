@@ -1,0 +1,15 @@
+{
+  "name": "NotJhuz-MD",
+  "description": "Gracias por todo, los amo (≧▽≦)",
+  "repository": "https://github.com/montdroud52469",
+  "logo": "https://raw.githubusercontent.com/IdkJhus/NotJhuz-MD/master/Menu2.jpg",
+  "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
+  "buildpacks": [
+  {
+    "url": "heroku/nodejs"
+  },
+  {
+    "url": "https://montdroud52469.github.io/ricardodmj.github.io/"
+  }  
+ ]
+}
